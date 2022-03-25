@@ -1,6 +1,5 @@
 - 👋 Hi, I’m VIGNESH
-- 👀 I’m interested in Data science 
-- 🌱 I’m currently learning Data Science 
+- 👀 I’m interested AI 
 - 📫 How to reach me srivickybe@gmail.com
 
 <!---
